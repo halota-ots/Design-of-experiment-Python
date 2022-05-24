@@ -1,0 +1,3 @@
+P20 - Mesh Element Size,P21 - CollarFaceSizing Element Size,P22 - FinWallsFaceSizing Element Size,P23 - FinEdgesSizing Element Size,P24 - t_in,P25 - u_in,P26 - t_collarwalls,P44 - FinCollarFaceSizing Element Size,P60 - Do,P61 - Pt_Do,P62 - Pl_Do,P63 - FPI,P64 - tf,P65 - nRows,P66 - dmin,P67 - Stheta,P68 - SLmax,P69 - SWmin,P70 - Wflat,P71 - Soffsetmax,P72 - Sliftmax,P73 - SZgap
+0.000390664,9.77E-05,9.77E-05,4.88E-05,300,0.25,360,7.51E-05,3,1.8,1.8,6,0.1524,0,2,0,12.7,1.52,1.52,0.64,1.27,0.05
+0.000390664,9.77E-05,9.77E-05,4.88E-05,300,5.08,360,7.51E-05,15.875,3,3,24,0.1524,6,2,24,12.7,1.52,1.52,0.64,1.27,0.05
